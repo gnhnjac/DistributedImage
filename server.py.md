@@ -1,0 +1,3 @@
+
+
+This program is a distributed image viewer. It is designed to allow up to four users to view an image together in real time. It uses the pygame library and socket library to achieve this. The program listens for incoming connections and assigns each user a separate portion of the image. The program then reconstructs the image based on the user images and displays it on the screen. The user can move the image around by using the arrow keys.
